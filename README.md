@@ -1,3 +1,5 @@
+My recipe project as a college assignment.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
